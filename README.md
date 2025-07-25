@@ -62,7 +62,7 @@ README.md                # Project overview and instructions
 ### Requirements
 
 - Python 3.7+
-- Packages: `GEOparse`, `pandas`, `matplotlib`, `seaborn` (install via pip)
+- Packages: `GEOparse`, `pandas`, `matplotlib`, `seaborn`
 
 ### Usage
 
